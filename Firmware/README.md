@@ -1,7 +1,7 @@
-SparkFun <PRODUCT NAME> Firmware
+SparkFun VCNL4000 Firmware
 ===================================
 
-* **Examples** - <LANGUAGE> examples
-    * <EXAMPLE NAME> - <FUNCTION>
+* **SparkFunVCNL4000Example** - Arduino example sketch. 
+    
 
 
