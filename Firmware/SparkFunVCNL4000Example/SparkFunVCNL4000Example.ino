@@ -142,8 +142,6 @@ byte readByte(byte address)
   Wire.write(address);
   Wire.endTransmission();
   Wire.requestFrom(VCNL4000_ADDRESS, 1);
-  while(!Wire.available())
-    ;
   data = Wire.read();
 
   return data;
